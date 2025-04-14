@@ -1,38 +1,71 @@
 {
-    "WBUI2":
-    {
-      "settings":
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/f2cGf9g.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
       {
-        "openbutton": 0,
-        "hideicon": false,
-        "hideiconafter": 60,
-        "iconurl": "https://i.imgur.com/f2cGf9g.png",
-        "disableicontext": false,
-        "iconposition": 0,
-        "icontextcolor": 0,
-        "openonstart": true,
-        "openonstartonlynewplayers": true,
-        "updateinterval": 12
-      },
-      "tabs": [
-        {
-            "layout": 1,
-            "buttontext": "Welcome",
-            "imageurl": "https://i.imgur.com/f2cGf9g.png",
-            "content": [
-              {
-                "title": "Welcome to Bloodline 1000x Fibrecraft",
-                "text": "Welcome to Bloodline 1000x Fibrecraft! Need help or support?\nJoin our Discord server for assistance, updates, and more!"
-              }
-            ]
-          }          
-      ],
-      "links": [
-        {
-          "text": "Discord",
-          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-        }
-      ],
-      "version": 2
-    }
+        "layout": 1,
+        "buttontext": "Welcome",
+        "imageurl": "https://i.imgur.com/f2cGf9g.png",
+        "content": [
+          {
+            "title": "Welcome to Bloodline 1000x Fibrecraft",
+            "text": "Welcome to Bloodline 1000x Fibrecraft! Need help or support?\nJoin our Discord server for assistance, updates, and more!"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    ],
+    "version": 2
   }
+}{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/f2cGf9g.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Welcome",
+        "imageurl": "https://i.imgur.com/f2cGf9g.png",
+        "content": [
+          {
+            "title": "Welcome to Bloodline 1000x Fibrecraft",
+            "text": "Welcome to Bloodline 1000x Fibrecraft! Need help or support?\nJoin our Discord server for assistance, updates, and more!"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    ],
+    "version": 2
+  }
+}
